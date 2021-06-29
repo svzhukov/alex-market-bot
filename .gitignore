@@ -1,3 +1,5 @@
 *.lock
 *.DS_Store
 /config.txt
+/Procfile
+/config.ini
